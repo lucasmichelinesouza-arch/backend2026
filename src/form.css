@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(225, 203, 235);
+    font-family: cursive;
+}
+
+body h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 20%;
+    left: 38%;
+}
+
+form {
+    display: flow-root;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: cursive;
+
+}
+
+form input {
+    font-family: cursive;
+}
